@@ -1,0 +1,5 @@
+flask
+python-decouple
+bs4
+requests
+mysql-connector-python
