@@ -40,4 +40,4 @@ def hitEndpoint():
             'date': item[1]
         }
         data_to_return.append(data_json)
-    requests.post(config("URL_POST", jsonify({'data': data_to_return})))
+    requests.post(config("URL_POST", data = {'data': data_to_return}))
