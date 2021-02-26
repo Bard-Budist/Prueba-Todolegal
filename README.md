@@ -24,9 +24,10 @@ packages used
 
 ## Environment Variables
 
-HOST => Host database
-PORT => Port database
-USER => User database
-PASSWORD => Passord database
-URL_POST => Url to hit to end process
-DATA_BASE => Name database
+Note: Use mysql database
+- HOST => Host database
+- PORT => Port database
+- USER => User database
+- PASSWORD => Passord database
+- URL_POST => Url to hit to end process
+- DATA_BASE => Name database
